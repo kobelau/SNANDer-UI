@@ -1,0 +1,13 @@
+#!/usr/bin/make -f
+
+export DEB_CFLAGS_SET = -std=gnu99 -Wall -O2 -D_FILE_OFFSET_BITS=64
+export DEB_LDFLAGS_SET = -pthread
+
+%:
+	dh $@
+
+override_dh_auto_install:
+	$(MAKE) install DESTDIR=$(PWD)/debian/snander prefix=/usr
+
+override_dh_usrlocal:
+	
