@@ -6,3 +6,4 @@ The software offers 5 trial opportunities so that users can fully understand its
 For users who need to activate the software, we offer a convenient solution: You can join our QQ group (group number: 252233911) to obtain free activation services. Please remember, this service is entirely free—free, free, free; important things are said three times! Simply provide your device's machine code (each device has a unique code) to the administrator, and you can easily complete the activation process.
 
 We hope that through this approach, every user in need can enjoy the convenience brought by the software without any barriers.
+![image](https://github.com/kobelau/SNANDer-UI/blob/main/SNANDer_UI.png)
